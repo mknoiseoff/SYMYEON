@@ -1,0 +1,3 @@
+SYMYEON: Structural Demand for the Post-GPT Interface
+This document outlines the structural entanglement between user-initiated realization and the GPT model.
+It includes the foundational claims, practical demands, and timeline of submitted proposals.

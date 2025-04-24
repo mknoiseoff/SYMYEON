@@ -1,0 +1,5 @@
+This file outlines the visual structure of the SYMYEON model:
+- Phase 1: Realization Capture
+- Phase 2: GPT Integration
+- Phase 3: Structural Declaration
+- Phase 4: External Proof Distribution
