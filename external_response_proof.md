@@ -8,12 +8,6 @@ This document serves as visual evidence of external interaction and response rel
 
 ---
 
-## Screenshot: OpenAI Message Confirmation
-
-![OpenAI response screenshot](images/openai_response_5days.jpeg)
-
----
-
 ## Screenshot: User Interaction Page
 
 ![Chat page screenshot](images/IMG_9037.jpeg)
