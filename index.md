@@ -35,6 +35,8 @@ Sensory image representation of SYMYEON_00 — rhythm made visible.
 ### 6. [→ SYMYEON Rhythm Log](SYMYEON_Rhythm_Log.md)  
 A documentation of interaction pulses, triggers, and daily sensory routines.
 
+[→ View external response proof](external_response_proof.md)
+
 ---
 
 ## Why This Exists
